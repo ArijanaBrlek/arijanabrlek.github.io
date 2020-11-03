@@ -1,1 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on DevMode</title><link>https://arijanabrlek.github.io/tags/</link><description>Recent content in Tags on DevMode</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate><atom:link href="https://arijanabrlek.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>circuitBreaking</title><link>https://arijanabrlek.github.io/tags/circuitbreaking/</link><pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate><guid>https://arijanabrlek.github.io/tags/circuitbreaking/</guid><description/></item><item><title>distributedSystems</title><link>https://arijanabrlek.github.io/tags/distributedsystems/</link><pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate><guid>https://arijanabrlek.github.io/tags/distributedsystems/</guid><description/></item><item><title>envoy</title><link>https://arijanabrlek.github.io/tags/envoy/</link><pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate><guid>https://arijanabrlek.github.io/tags/envoy/</guid><description/></item><item><title>designPatterns</title><link>https://arijanabrlek.github.io/tags/designpatterns/</link><pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate><guid>https://arijanabrlek.github.io/tags/designpatterns/</guid><description/></item><item><title>microservices</title><link>https://arijanabrlek.github.io/tags/microservices/</link><pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate><guid>https://arijanabrlek.github.io/tags/microservices/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DevMode</title>
+    <link>https://arijanabrlek.github.io/tags/</link>
+    <description>Recent content in Tags on DevMode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://arijanabrlek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>circuitBreaking</title>
+      <link>https://arijanabrlek.github.io/tags/circuitbreaking/</link>
+      <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/tags/circuitbreaking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributedSystems</title>
+      <link>https://arijanabrlek.github.io/tags/distributedsystems/</link>
+      <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/tags/distributedsystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>envoy</title>
+      <link>https://arijanabrlek.github.io/tags/envoy/</link>
+      <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/tags/envoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>designPatterns</title>
+      <link>https://arijanabrlek.github.io/tags/designpatterns/</link>
+      <pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/tags/designpatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microservices</title>
+      <link>https://arijanabrlek.github.io/tags/microservices/</link>
+      <pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>distributedSystems on DevMode</title><link>https://arijanabrlek.github.io/tags/distributedsystems/</link><description>Recent content in distributedSystems on DevMode</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate><atom:link href="https://arijanabrlek.github.io/tags/distributedsystems/index.xml" rel="self" type="application/rss+xml"/><item><title>Microservices Patterns With Envoy Sidecar Proxy, Part I: Circuit Breaking</title><link>https://arijanabrlek.github.io/posts/2020-11-03/</link><pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate><guid>https://arijanabrlek.github.io/posts/2020-11-03/</guid><description/></item><item><title>Circuit Breakers in Microservices</title><link>https://arijanabrlek.github.io/posts/2020-11-02/</link><pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate><guid>https://arijanabrlek.github.io/posts/2020-11-02/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distributedSystems on DevMode</title>
+    <link>https://arijanabrlek.github.io/tags/distributedsystems/</link>
+    <description>Recent content in distributedSystems on DevMode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://arijanabrlek.github.io/tags/distributedsystems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microservices Patterns With Envoy Sidecar Proxy, Part I: Circuit Breaking</title>
+      <link>https://arijanabrlek.github.io/posts/2020-11-03/</link>
+      <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/posts/2020-11-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circuit Breakers in Microservices</title>
+      <link>https://arijanabrlek.github.io/posts/2020-11-02/</link>
+      <pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/posts/2020-11-02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
