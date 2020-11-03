@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DevMode</title>
-    <link>arijanabrlek.github.io/devmode/tags/</link>
+    <link>arijanabrlek.github.io/tags/</link>
     <description>Recent content in Tags on DevMode</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate><atom:link href="arijanabrlek.github.io/devmode/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate><atom:link href="arijanabrlek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>circuitBreaking</title>
-      <link>arijanabrlek.github.io/devmode/tags/circuitbreaking/</link>
+      <link>arijanabrlek.github.io/tags/circuitbreaking/</link>
       <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
       
-      <guid>arijanabrlek.github.io/devmode/tags/circuitbreaking/</guid>
+      <guid>arijanabrlek.github.io/tags/circuitbreaking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>distributedSystems</title>
-      <link>arijanabrlek.github.io/devmode/tags/distributedsystems/</link>
+      <link>arijanabrlek.github.io/tags/distributedsystems/</link>
       <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
       
-      <guid>arijanabrlek.github.io/devmode/tags/distributedsystems/</guid>
+      <guid>arijanabrlek.github.io/tags/distributedsystems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>envoy</title>
-      <link>arijanabrlek.github.io/devmode/tags/envoy/</link>
+      <link>arijanabrlek.github.io/tags/envoy/</link>
       <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
       
-      <guid>arijanabrlek.github.io/devmode/tags/envoy/</guid>
+      <guid>arijanabrlek.github.io/tags/envoy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>designPatterns</title>
-      <link>arijanabrlek.github.io/devmode/tags/designpatterns/</link>
+      <link>arijanabrlek.github.io/tags/designpatterns/</link>
       <pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate>
       
-      <guid>arijanabrlek.github.io/devmode/tags/designpatterns/</guid>
+      <guid>arijanabrlek.github.io/tags/designpatterns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>microservices</title>
-      <link>arijanabrlek.github.io/devmode/tags/microservices/</link>
+      <link>arijanabrlek.github.io/tags/microservices/</link>
       <pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate>
       
-      <guid>arijanabrlek.github.io/devmode/tags/microservices/</guid>
+      <guid>arijanabrlek.github.io/tags/microservices/</guid>
       <description></description>
     </item>
     
