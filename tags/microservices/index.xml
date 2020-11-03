@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>microservices on DevMode</title>
-    <link>arijanabrlek.github.io/tags/microservices/</link>
+    <link>/arijanabrlek.github.io/tags/microservices/</link>
     <description>Recent content in microservices on DevMode</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Nov 2020 19:43:19 +0100</lastBuildDate><atom:link href="arijanabrlek.github.io/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Nov 2020 19:43:19 +0100</lastBuildDate><atom:link href="/arijanabrlek.github.io/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Circuit Breakers in Microservices</title>
-      <link>arijanabrlek.github.io/posts/2020-11-02/</link>
+      <link>/arijanabrlek.github.io/posts/2020-11-02/</link>
       <pubDate>Mon, 02 Nov 2020 19:43:19 +0100</pubDate>
       
-      <guid>arijanabrlek.github.io/posts/2020-11-02/</guid>
+      <guid>/arijanabrlek.github.io/posts/2020-11-02/</guid>
       <description></description>
     </item>
     

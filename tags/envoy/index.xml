@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>envoy on DevMode</title>
-    <link>arijanabrlek.github.io/tags/envoy/</link>
+    <link>/arijanabrlek.github.io/tags/envoy/</link>
     <description>Recent content in envoy on DevMode</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate><atom:link href="arijanabrlek.github.io/tags/envoy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 07:43:19 +0100</lastBuildDate><atom:link href="/arijanabrlek.github.io/tags/envoy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microservices Patterns With Envoy Sidecar Proxy, Part I: Circuit Breaking</title>
-      <link>arijanabrlek.github.io/posts/2020-11-03/</link>
+      <link>/arijanabrlek.github.io/posts/2020-11-03/</link>
       <pubDate>Tue, 03 Nov 2020 07:43:19 +0100</pubDate>
       
-      <guid>arijanabrlek.github.io/posts/2020-11-03/</guid>
+      <guid>/arijanabrlek.github.io/posts/2020-11-03/</guid>
       <description></description>
     </item>
     
