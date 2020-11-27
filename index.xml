@@ -5,7 +5,16 @@
     <link>https://arijanabrlek.github.io/</link>
     <description>Recent content on DevMode</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Nov 2020 10:06:15 +0100</lastBuildDate><atom:link href="https://arijanabrlek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 09:13:44 +0100</lastBuildDate><atom:link href="https://arijanabrlek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How a regex simplification in Loki increased performance by up to 300x</title>
+      <link>https://arijanabrlek.github.io/posts/2020-11-27/</link>
+      <pubDate>Fri, 27 Nov 2020 09:13:44 +0100</pubDate>
+      
+      <guid>https://arijanabrlek.github.io/posts/2020-11-27/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Breaking Murmur: Hash-flooding DoS Reloaded</title>
       <link>https://arijanabrlek.github.io/posts/2020-11-05/</link>

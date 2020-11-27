@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://arijanabrlek.github.io/posts/2020-11-05/</loc>
-    <lastmod>2020-11-05T10:06:15+01:00</lastmod>
+    <loc>https://arijanabrlek.github.io/</loc>
+    <lastmod>2020-11-27T09:13:44+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://arijanabrlek.github.io/</loc>
+    <loc>https://arijanabrlek.github.io/tags/grafana/</loc>
+    <lastmod>2020-11-27T09:13:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arijanabrlek.github.io/posts/2020-11-27/</loc>
+    <lastmod>2020-11-27T09:13:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arijanabrlek.github.io/tags/loki/</loc>
+    <lastmod>2020-11-27T09:13:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arijanabrlek.github.io/posts/</loc>
+    <lastmod>2020-11-27T09:13:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arijanabrlek.github.io/tags/regex/</loc>
+    <lastmod>2020-11-27T09:13:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arijanabrlek.github.io/tags/</loc>
+    <lastmod>2020-11-27T09:13:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arijanabrlek.github.io/posts/2020-11-05/</loc>
     <lastmod>2020-11-05T10:06:15+01:00</lastmod>
   </url>
   
@@ -24,16 +54,6 @@
   
   <url>
     <loc>https://arijanabrlek.github.io/tags/murmur/</loc>
-    <lastmod>2020-11-05T10:06:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://arijanabrlek.github.io/posts/</loc>
-    <lastmod>2020-11-05T10:06:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://arijanabrlek.github.io/tags/</loc>
     <lastmod>2020-11-05T10:06:15+01:00</lastmod>
   </url>
   
